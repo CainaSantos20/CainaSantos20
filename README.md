@@ -1,8 +1,9 @@
 **Olá, bem-vindo(a) 🖤**
 
- Esse perfil está sendo usado para estudos do alura 😄
+///////////Esse perfil está sendo usado para estudos do alura 😄\\\\\\\\\\\\\
 
- Aqui pretendo desenvolver alguns códigos 🥇
+ 
+ Aqui pretendo desenvolver alguns códigos 🥇 
 
  Linguagem utilizada **JAVASCRIPT**
 
